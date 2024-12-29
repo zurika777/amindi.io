@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amindi.io/static/css/main.d2fda349.css",
+    "main.js": "/amindi.io/static/js/main.85a54589.js",
+    "static/js/787.c3aa0bb3.chunk.js": "/amindi.io/static/js/787.c3aa0bb3.chunk.js",
+    "static/media/clouds.jpg": "/amindi.io/static/media/clouds.5b9df7db60b0684bb28e.jpg",
+    "static/media/haze.jpg": "/amindi.io/static/media/haze.e60996516089773b2e21.jpg",
+    "static/media/clear.jpg": "/amindi.io/static/media/clear.2869aa9b0b1493822b16.jpg",
+    "static/media/rain.jpg": "/amindi.io/static/media/rain.a204240d63098bb02946.jpg",
+    "static/media/thunderstorm.jpg": "/amindi.io/static/media/thunderstorm.ac28a49533d79ae9baae.jpg",
+    "static/media/smoke.jpg": "/amindi.io/static/media/smoke.a5838ae895ac8fcc7f25.jpg",
+    "static/media/sunny.jpg": "/amindi.io/static/media/sunny.055ce2ad8223bfe2a1f4.jpg",
+    "static/media/snow.jpg": "/amindi.io/static/media/snow.32166c066a0ed98a69b5.jpg",
+    "index.html": "/amindi.io/index.html",
+    "main.d2fda349.css.map": "/amindi.io/static/css/main.d2fda349.css.map",
+    "main.85a54589.js.map": "/amindi.io/static/js/main.85a54589.js.map",
+    "787.c3aa0bb3.chunk.js.map": "/amindi.io/static/js/787.c3aa0bb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fda349.css",
+    "static/js/main.85a54589.js"
+  ]
+}
